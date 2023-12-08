@@ -13,4 +13,4 @@ For more information about CycloneDX, see https://cyclonedx.org.
 | BOM | `observer:organization:id` | The SBOM Observer internal organization id used to create the SBOM |
 | BOM | `observer:namespace:id` | The SBOM Observer internal namespace id used to create the SBOM |
 | Component | `observer:source:url` | The url for an attestation that first imported the component in to a namespace |
-| Component | `observer:attestation:original:purl` | The original [Package ULR](https://github.com/package-url/purl-spec) for a component that was imported into a namespace from an SBOM |
+| Component | `observer:attestation:original:purl` | The original [Package URL](https://github.com/package-url/purl-spec) for a component that was imported into a namespace from an SBOM |
